@@ -12,3 +12,7 @@ Each snapshot tells your coding story.
 Push and pull with confidence bright,
 Git keeps your projects organized right.
 
+When teams collaborate on projects grand,
+Git merges changes with steady hand.
+Through pull requests and careful review,
+Software grows with me and you.
